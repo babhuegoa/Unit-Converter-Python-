@@ -1,0 +1,44 @@
+B.E.G. System Basiswerkzeug Lizenz für Software:
+Deutsch
+B.E.G.-System Lizenzbedingungen
+Copyright (c) 2025 Babhu Emanuel Goas. Alle rechte vorbehalten.
+    1. Nutzung
+        - Der Quellcode darf genutzt, verändert und in eigene Projekte integriert werden.
+        - Die Nutzung in kommerziellen Projekten ist erlaubt, solange der Hinweis „Basiert auf dem B.E.G.-System von Emanuel Goas“ sichtbar enthalten bleibt.
+	  Der Hinweis muss an einer öffentlichen und leicht auffindbaren Stelle des resultierenden
+          Produkts oder seiner Dokumentation sichtbar sein.
+    2. Weitergabe
+        - Eine Weitergabe des Codes (ganz oder in Teilen) an Dritte ist nur mit vorheriger Zustimmung des Urhebers gestattet.
+        - Eigene Projekte, die den Code enthalten, dürfen veröffentlicht oder verkauft werden, solange der Quellcode selbst nicht offen weitergegeben wird.
+    3. Work in Progress (WIP)
+        - Teile des Codes können mit „Work in Progress“ markiert sein. Diese Bereiche sind für zukünftige Updates reserviert.
+        - Änderungen in diesen WIP-Bereichen erfolgen auf eigenes Risiko. In diesem Fall entfällt jede Garantie auf die Funktionalität des gesamten Codes.
+    4. Haftungsausschluss
+        - Der Code wird „wie er ist“ bereitgestellt, ohne Garantie auf Fehlerfreiheit oder Eignung für einen bestimmten Zweck.
+        - Jegliche Verantwortung für Schäden oder Fehlfunktionen liegt beim Nutzer.
+    5. Weiterverkauf
+	-Der Weiterverkauf ist nur mit ausdrücklicher schriftlicher Genehmigung erlaubt.
+    
+Hinweis: Babhu Emanuel Goas ist ein Künstlername. Der Urheber ist unter diesem Namen öffentlich tätig.
+
+English
+B.E.G. System Core Tool License Terms
+Copyright (c) 2025 Babhu Emanuel Goas. All rights reserved
+    1. Usage
+        - The source code may be used, modified, and integrated into other projects.
+        - Commercial use is allowed as long as the notice “Based on the B.E.G. System by Emanuel Goas” is included.
+    2. Redistribution
+        - Redistribution of the code (in whole or in part) to third parties is only allowed with prior approval of the author.
+        - Projects that include the code may be published or sold, as long as the source code itself is not freely distributed.
+	  The notice must appear in a public and easily discoverable place within the resulting
+          product or its documentation.
+    3. Work in Progress (WIP)
+        - Parts of the code may be marked as “Work in Progress”. These areas are reserved for future updates.
+        - Any modification in these WIP areas is done at your own risk. In this case, all warranty on code functionality is void.
+    4. Disclaimer of Warranty
+        - The code is provided “as is,” without warranty of any kind, express or implied, including but not limited to fitness for a particular purpose.
+        - The user assumes all responsibility for damages or malfunctions resulting from its use.
+    5. Resale
+	-Resale is only allowed with a written autorization from the author.
+
+Note: Babhu Emanuel Goas is an artist name. The author operates publicly under this name.
