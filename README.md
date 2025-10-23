@@ -35,6 +35,6 @@ This project works under the: B.E.G.-System Core Tool License / B.E.G. Basiswerk
 - For more details look in "License / Lizenz " file in the repository
 Thank you for you attention
 
-Priview:
-![Main Menu](screenshots/MathUmHauptmenu.jpg)
-![Code Structure](screenshots/MathUmCodeHauptmenu.jpg)
+Prieview:
+![Main Menu](Screenshots/MathUmHauptmenu.jpg)
+![Code Structure](Screenshots/MathUmCodeHauptmenu.jpg)
