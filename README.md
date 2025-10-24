@@ -2,6 +2,9 @@ Python Unit Converter - B.E.G.-System Core Tool
 
 This is a ready to use python tool for converting different kind of units.
 The code is modular build can can be further deveolpt for you own Projects.
+It's ideal for developers, students and educational purpose.
+Can be integrated into Python projects or used as a standalone CLI tool.  
+Ideal for learning, prototyping, research and embedded applications.
 
 Function:
 - Menu service through console
