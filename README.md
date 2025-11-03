@@ -40,7 +40,8 @@ Thank you for you attention
 
 News and Information:
 
-If you want to get news about my Project and like to be well informed you can suscribe to my Gumroad channel. All news and Procejt information will be first send and published there. link: https://babhuegoa.gumroad.com/subscribe
+If you want to get news about my Project and like to be well informed you can suscribe to my Gumroad channel. All news and Procejt information will be first send and published there. link: https://babhuegoa.gumroad.com/subscrib
+
 Prieview:
 ![Main Menu](Screenshots/MathUmHauptmenu.jpg)
 ![Code Structure](Screenshots/MathUmCodeHauptmenu.jpg)
