@@ -45,3 +45,9 @@ If you want to get news about my Project and like to be well informed you can su
 Prieview:
 ![Main Menu](Screenshots/MathUmHauptmenu.jpg)
 ![Code Structure](Screenshots/MathUmCodeHauptmenu.jpg)
+
+Repository Purpose:
+
+This repository serves as public documentation and preview. The runnable ZIP version is distributed exclusively via Gumroad.
+
+
