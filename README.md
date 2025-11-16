@@ -1,4 +1,5 @@
-Python Unit Converter - B.E.G.-System Core Tool
+# Python Unit-Converter — Python Mathematik-Rechner  
+** ©2025 BEG, B.E.G.-System™ Core Tool (Source-Available Licensed Software)**
 
 This is a ready to use python tool for converting different kind of units.
 The code is modular build can can be further deveolpt for you own Projects.
