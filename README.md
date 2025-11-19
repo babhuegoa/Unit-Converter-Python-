@@ -34,14 +34,14 @@ License:
 
 This project works under the: B.E.G.-System Core Tool License / B.E.G. Basiswerkzeug Lizenz
 - commercial usage allowed
-- Notice "Based on the B.E.G.-Sytsem from Emanuel Goas" needed
+- Notice "Based on the B.E.G.-Sytsem from B.E.G." needed
 - Passing of the originalcode itself to others is not allowed
 - For more details look in "License / Lizenz " file in the repository
 Thank you for you attention
 
 News and Information:
 
-If you want to get news about my Project and like to be well informed you can suscribe to my Gumroad channel. All news and Procejt information will be first send and published there. link: https://babhuegoa.gumroad.com/subscribe
+If you want to get news about my Project and like to be well informed you can suscribe to my Gumroad channel. All news and Project information will be first send and published there. link: https://babhuegoa.gumroad.com/subscribe
 
 Prieview:
 ![Main Menu](Screenshots/MathUmHauptmenu.jpg)
